@@ -1,0 +1,13 @@
+.logo{
+    width: 10rem;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+}
+.text{
+    text-align: center;
+}
